@@ -1,0 +1,1 @@
+var json_2014WA_31 = {"type":"FeatureCollection","name":"2014WA_31","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Y":28.34865,"X":-13.0,"field_3":null,"field_4":null},"geometry":{"type":"Point","coordinates":[-13.0,28.348645]}}]}
